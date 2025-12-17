@@ -14,5 +14,5 @@ A simple Java console-based expense tracker application.
 
 ## challenges faced:
 -How to structure the program using multiple classes
--Scanner input issue while using nextint() and nextline()
+-Scanner input issue while using nextInt() and nextLine()
 -duplicate variable errors
